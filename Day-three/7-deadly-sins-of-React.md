@@ -1,4 +1,4 @@
-# 7 Deadly Sins of Reacth
+# 7 Deadly Sins of React
 
 @ErselAker
 
