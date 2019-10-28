@@ -8,13 +8,13 @@ This repository contains my raw notes from all three days of the conference:
 
 ### Day One
 
-* [Concurrent Editing with JSON Patch](./Day-one/Concurrent-editing-with-JSON.md)
-* [Gone in 0.0166 seconds](./Day-one/Gone-in-0.0166-seconds.md)
 * [Keynote by Ken Wheeler](./Day-one/Keynote-by-Ken-Wheeler.md)
 * [NestJS: A Framework for Your Node Backend](./Day-one/Nest-js-framework.md)
-* [Practical Performance for React (Native)](./Day-one/Practical-performance-for-react.md)
 * [Security in Node.js](./Day-one/Security-in-NodeJS.md)
 * [Web Assembly outside the web](./Day-one/WebAssembly-outside-web.md)
+* [Concurrent Editing with JSON Patch](./Day-one/Concurrent-editing-with-JSON.md)
+* [Gone in 0.0166 seconds](./Day-one/Gone-in-0.0166-seconds.md)
+* [Practical Performance for React (Native)](./Day-one/Practical-performance-for-react.md)
 
 ### Day Two
 
