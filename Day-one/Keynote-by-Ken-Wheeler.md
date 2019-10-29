@@ -39,10 +39,13 @@ We can also cancel execution of the worker, if we want to:
 // Creating web worker in the main thread
 worker.terminate();
 ```
-<!-- const webWorker = new WebWorker('web-worker.js'); -->
-<!-- webWorker.onmessage = event => console.log(event.data); -->
-<!-- webWorker.postMessage(1); -->
-<!-- webWorker.postMessage(1e10); -->
+
+<!-- 
+const webWorker = new WebWorker('web-worker.js');
+webWorker.onmessage = event => console.log(event.data);
+webWorker.postMessage(1);
+webWorker.postMessage(1e10);
+-->
 
 * It's good idea to send messages in JSON format with `messageType` property.
 
