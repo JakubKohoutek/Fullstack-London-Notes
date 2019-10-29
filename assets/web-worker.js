@@ -1,9 +1,9 @@
 const executeBlockingAction = (loopLimit) => {
   for(let i=0; i<loopLimit; i++) {}
-  postMessage('done');
+  self.postMessage('done');
 }
 
-onmessage = (event) => {
+self.onmessage = (event) => {
   const {data} = event;
   executeBlockingAction(data);
 }
